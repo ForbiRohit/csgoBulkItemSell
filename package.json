@@ -1,0 +1,12 @@
+{
+  "name": "csgobulkitemsell",
+  "version": "1.0.0",
+  "description": "App to sell csgo ietms in bulk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "app": "node createServer.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

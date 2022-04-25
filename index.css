@@ -1,0 +1,50 @@
+#cbis-error-span.hide {
+    display: none;
+}
+
+#cbis-error-span {
+    margin: 4px 0px 0px 0px;
+    color: rgba(179, 31, 31, 0.7);
+    display: flex;
+    align-items: center;
+}
+#cbis-error-span svg {
+    width: 16px;
+    height: 16px;
+    stroke-width: 1.5;
+    margin-right: 2px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.91);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#cbis-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10% 0px;
+
+}
+.cbis-form-wrapper {
+    
+}
+label {
+    margin: 4px 0px;
+}
+.cbis-form-field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cbis-sell-button {
+    width: 5%;
+    border-radius: 10px;
+    height: 36px;
+    background-color: rgba(188, 44, 188, 0.797);
+    border-color: rgba(188, 44, 188, 0.797);
+    margin: 4px 0px;
+}
