@@ -44,7 +44,7 @@ label {
     border-color: rgba(188, 44, 188, 0.797);
     margin: 4px 0px;
     border-style: none;
-    min-width: 32px;
+    min-width: 72px;
     display: flex;
     align-items: center;
     justify-content: center;
