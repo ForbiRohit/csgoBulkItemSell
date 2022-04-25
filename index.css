@@ -44,6 +44,10 @@ label {
     border-color: rgba(188, 44, 188, 0.797);
     margin: 4px 0px;
     border-style: none;
+    min-width: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 @media screen and (max-width: 721px) {
