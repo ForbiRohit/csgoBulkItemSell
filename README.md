@@ -1,4 +1,4 @@
-# csgoBulkItemSell
+# CSGO Bulk Item Sell
 Csgo app to bulk sell steam items
 
 On desktop there are different extensions you can use to sell multiple items but for mobile it is a little difficult to do so.
